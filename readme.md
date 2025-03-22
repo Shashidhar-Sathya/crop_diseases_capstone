@@ -353,9 +353,9 @@ Even, if the crop losses are reduced by `10%` or `20%` globally, the Gross Produ
 
 ---
 Link to Project Jupiter Notebooks:
-1. [Exploratory Data Analysis Jupyter Notebook](https://github.com/Shashidhar-Sathya/crop_diseases/blob/master/crop_diseases_eda.ipynb/)
-2. [Modeling Jupyter Notebook]()
-3. [Fully Trained Model Jupyter Notebook]()
+1. [Exploratory Data Analysis Jupyter Notebook](https://github.com/Shashidhar-Sathya/crop_diseases_capstone/blob/main/01_crop_diseases_EDA.ipynb)
+2. [Modeling Jupyter Notebook](https://github.com/Shashidhar-Sathya/crop_diseases_capstone/blob/main/02_crop_disease_modeling.ipynb)
+3. [Fully Trained Model Jupyter Notebook](https://github.com/Shashidhar-Sathya/crop_diseases_capstone/blob/main/03_crop_disease_final_models.ipynb)
 
 --- 
 
