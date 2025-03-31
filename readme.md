@@ -1,5 +1,3 @@
-
-[Link to the Jupyter Notebook](https://github.com/Shashidhar-Sathya/crop_diseases/blob/master/crop_diseases_ead.ipynb/)
 # Disease Detection in Field Crops and Plantations 
 ![Disease Detection Workflow](images/capstone-03.png "Disease Detection Workflow")
 
