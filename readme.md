@@ -381,7 +381,7 @@ Link to Project Jupiter Notebooks:
 
 - *USDA NIFA https://www.nifa.usda.gov/about-nifa/blogs/researchers-helping-protect-crops-pests*
 - *World Food Programme : https://www.wfp.org/global-hunger-crisis*
-- *Center for Strategic & International Studies: https://www.csis.org/analysis/dangerously-hungry-link-between-food-insecurity-and-conflict*
+- *The Global State of Food Security : https://www.statista.com/chart/21209/best-and-worst-performing-countries-for-food-security/*
 - *Uncontained spread of Fusarium wilt of banana threatens African food security
 https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010769*
 - *Maize Streak Virus
